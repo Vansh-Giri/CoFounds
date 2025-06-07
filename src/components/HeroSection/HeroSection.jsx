@@ -11,6 +11,7 @@ export default function HeroSection() {
   const [showDesc, setShowDesc] = useState(false);
 
   // Typewriter text
+  //comment to force update
   const headlineText = useTypewriter("Hiring is", startHeadline, 60);
   const subheadlineText = useTypewriter("We are to fix it.", startSubheadline, 60);
 
