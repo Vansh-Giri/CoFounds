@@ -6,7 +6,7 @@ import two from '../../assets/two.png';
 import three from '../../assets/three.png';
 import four from '../../assets/four.png';
 import five from '../../assets/five.png';
-import star from '../../assets/star.svg'; // Import your SVG star
+import star from '../../assets/Star.svg'; // Import your SVG star
 
 const testimonials = [
   {
